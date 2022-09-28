@@ -1,6 +1,6 @@
 # cara-ecommerse
 
-# Tanner Goods Clone
+
 
 This is a clone of E-commerce site which Deals with the highest quality cloths, belts, wallets and accessories,
 including the Mazama Wares collection of handcrafted glassware etc.
@@ -44,5 +44,5 @@ To deploy this project run
 
 ## Support
 
-If you have any feedback, please reach out to me at kumar.prashant477@gmail.com
+If you have any feedback, please reach out to me at brajeshlovanshi2001@gmail.com
 
